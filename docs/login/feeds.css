@@ -1,0 +1,65 @@
+main {
+    display: flex;
+    justify-content: center;
+    margin-top: 179px;
+    margin-bottom: 179px;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.h2 {
+    color: #5aa37c;
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+input[type=text] {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 290px;
+    box-sizing: border-box;
+    border: 2px solid #6bb18c;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    background-color: #f3edde;
+}
+input[type=password] {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 290px;
+    box-sizing: border-box;
+    border: 2px solid #6bb18c;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    background-color: #f3edde;
+}
+input[type=checkbox] {
+    box-sizing: border-box;
+    border: 0px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    background-color: #f3edde;
+    border: 2px solid #6bb18c;
+}
+input[type=button] {
+    color: #ecdaaf;
+    background-color: #6bb18c;
+    border: 2px solid #6bb18c;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 10px 40px;
+}
+.int {
+    padding-bottom: 15px;
+}
+.reg_p {
+    font-size: 16px;
+}
+a.reg {
+    color: #6bb18c;
+}
+a.reg:hover {
+    color: #ecc362;
+}

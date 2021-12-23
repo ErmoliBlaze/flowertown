@@ -1,0 +1,30 @@
+main {
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+    margin-bottom: 377px;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.h2 {
+    color: #5aa37c;
+    font-size: 40px;
+    margin-bottom: 60px;
+    text-align: center;
+}
+.int {
+    padding-bottom: 15px;
+}
+.reg_p {
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+input[type=button] {
+    color: #ecdaaf;
+    background-color: #6bb18c;
+    border: 2px solid #6bb18c;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 10px 40px;
+}

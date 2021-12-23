@@ -1,0 +1,33 @@
+main {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.info {
+    margin-right: 40px;
+    width: 720px;
+    font-family: 'Roboto', sans-serif;
+}
+.h2 {
+    color: #5aa37c;
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+.main-text {
+    margin-bottom: 15px;
+    font-family: 'Roboto', sans-serif;
+}
+.h3 {
+    color: #68b88d;
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+a.fed {
+    color: #6bb18c;
+}
+a.fed:hover {
+    color: #d3b46b;
+}
